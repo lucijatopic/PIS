@@ -6,5 +6,6 @@ namespace ConsoleApp20
 {
     class NewClass
     {
+        int metoda() { return 1; }
     }
 }
