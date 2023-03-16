@@ -8,6 +8,8 @@ namespace ConsoleApp20
         {
             Console.WriteLine("Hello Worldg!");
             Console.WriteLine("Novo!");
+            Console.WriteLine("Novo!");
+
         }
     }
 }
